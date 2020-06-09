@@ -19,6 +19,6 @@ Among others, we enriched for functional sets and pathways from GO Biological Pr
 The GO Biological Process, Reactome, UniProt, and KEGG terms were compared to STRING clusters by counting the number of times each human protein-coding gene appeared in each database. STRING clusters and UniProt keywords covered the vast majority of the proteome with three or more annotations per protein, while two-thirds of the proteome are completely missing from KEGG.
 
 
-[1] Matias Rodrigues, J. F., & Von Mering, C. (2014). HPC-CLUST: Distributed hierarchical clustering for large sets of nucleotide sequences. Bioinformatics, 30(2), 287–288. https://doi.org/10.1093/bioinformatics/btt657
+[1] Matias Rodrigues, J. F., & Von Mering, C. (2014). HPC-CLUST: Distributed hierarchical clustering for large sets of nucleotide sequences. Bioinformatics, 30(2), 287–288. https://doi.org/10.1093/bioinformatics/btt657  
 [2] Szklarczyk, D., Gable, A. L., Lyon, D., Junge, A., Wyder, S., Huerta-Cepas, J., … von Mering, C. (2018). STRING v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 1–7. https://doi.org/10.1093/nar/gky1131
 
